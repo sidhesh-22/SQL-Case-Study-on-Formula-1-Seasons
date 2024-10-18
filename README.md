@@ -10,7 +10,7 @@
 
 ### Project Overview
 
-In this project, I've dived deeper into the Formula One Seasons to analyse to performance of the F1 drivers, their performances, constructor performances and so using SQL. I have uncovered various insights like youngest and oldest F1 drivers, most successful F1 driver and F1 teams. I even tried building custom reports containing all the details like year, race id, circuit location, driver name and positions, constructor name and postions, fastest lap timings and so on.
+In this project, I've dived deeper into the Formula One Seasons to analyze to performance of the F1 drivers, their performances, constructor performances, and so on using SQL. I have uncovered various insights like the youngest and oldest F1 drivers, the most successful F1 drivers and F1 teams. I even tried building custom reports containing all the details like year, race id, circuit location, driver name and positions, constructor name and positions, fastest lap timings and so on.
 
 
 ![SQL report preview](https://github.com/user-attachments/assets/5b3cf9a2-fa62-4494-9620-4163b2cd22b0)
@@ -21,18 +21,31 @@ In this project, I've dived deeper into the Formula One Seasons to analyse to pe
 You can download the below dataset used in this project:
 
 [qualifying.csv](https://github.com/user-attachments/files/17441234/qualifying.csv)
+
 [pit_stops.csv](https://github.com/user-attachments/files/17441233/pit_stops.csv)
+
 [constructors.csv](https://github.com/user-attachments/files/17441229/constructors.csv)
+
 [lap_times.csv](https://github.com/user-attachments/files/17441232/lap_times.csv)
+
 [drivers.csv](https://github.com/user-attachments/files/17441231/drivers.csv)
+
 [driver_standings.csv](https://github.com/user-attachments/files/17441230/driver_standings.csv)
+
 [races.csv](https://github.com/user-attachments/files/17441221/races.csv)
+
 [results.csv](https://github.com/user-attachments/files/17441222/results.csv)
+
 [constructor_standings.csv](https://github.com/user-attachments/files/17441228/constructor_standings.csv)
+
 [constructor_results.csv](https://github.com/user-attachments/files/17441227/constructor_results.csv)
+
 [circuits.csv](https://github.com/user-attachments/files/17441226/circuits.csv)
+
 [status.csv](https://github.com/user-attachments/files/17441225/status.csv)
+
 [sprint_results.csv](https://github.com/user-attachments/files/17441224/sprint_results.csv)
+
 [seasons.csv](https://github.com/user-attachments/files/17441223/seasons.csv)
 
 
@@ -41,7 +54,7 @@ You can download the below dataset used in this project:
 1. Creating a database in PostgreSQL
 2. Running the 'run.sql' file in Python code editor to create all the required tables and insert data into them.
 3. Data cleaning and preprocessing.
-4. Validating the data counts of all the tables and check if there are any duplicates or redundancies.
+4. Validating the data counts of all the tables and checking if there are any duplicates or redundancies.
 5. Solving the basic insights like most successful drivers, youngest and oldest drivers etc.
 6. Creating reports for an entire season with all the required columns for it.
 
@@ -57,6 +70,6 @@ You can download the below dataset used in this project:
 
 ### Recommendations and further scope
 
-- I've explored and analysed a limited number of insights with this data. Since this is huge historic dataset, lot of other insights can be drawn by diving deeper.
-- More detailed custom reports can be built to analyse the data more categorically.
+- I've explored and analyzed a limited number of insights with this data. Since this is huge historical dataset, a lot of other insights can be drawn by diving deeper.
+- More detailed custom reports can be built to analyze the data more categorically.
 - These reports can also then be used for visualizations if connected to any of the bi tools like Power BI.
