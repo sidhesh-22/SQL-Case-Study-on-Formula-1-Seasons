@@ -8,12 +8,20 @@
 - [Insights and Findings](insights-and-findings)
 - [Recommendations and further scope](recommendations-and-further-scope)
 
+
 ### Project Overview
 
-Formula One (more commonly known as Formula 1 or F1) is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile (FIA). In this project, I've dived deeper into the Formula One Seasons to analyze to performance of the F1 drivers, their performances, constructor performances, and so on using SQL. I have uncovered various insights like the youngest and oldest F1 drivers, the most successful F1 drivers, and F1 teams. I even tried building custom reports containing all the details like year, race id, circuit location, driver name and positions, constructor name and positions, fastest lap timings, and so on.
+Formula One (more commonly known as Formula 1 or F1) is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile (FIA). 
+
+![formula one car](https://github.com/user-attachments/assets/0498050a-1ad6-4de7-9297-4d504089b9ba)
+
+
+In this project, I've dived deeper into the Formula One Seasons to analyze to performance of the F1 drivers, their performances, constructor performances, and so on using SQL. I have uncovered various insights like the youngest and oldest F1 drivers, the most successful F1 drivers, and F1 teams. I even tried building custom reports containing all the details like year, race id, circuit location, driver name and positions, constructor name and positions, fastest lap timings, and so on.
 
 
 ![SQL report preview](https://github.com/user-attachments/assets/5b3cf9a2-fa62-4494-9620-4163b2cd22b0)
+
+Preview of one of the reports from this project
 
 
 ### Data Source
