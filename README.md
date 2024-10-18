@@ -10,7 +10,7 @@
 
 ### Project Overview
 
-In this project, I've dived deeper into the Formula One Seasons to analyze to performance of the F1 drivers, their performances, constructor performances, and so on using SQL. I have uncovered various insights like the youngest and oldest F1 drivers, the most successful F1 drivers and F1 teams. I even tried building custom reports containing all the details like year, race id, circuit location, driver name and positions, constructor name and positions, fastest lap timings and so on.
+Formula One (more commonly known as Formula 1 or F1) is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile (FIA). In this project, I've dived deeper into the Formula One Seasons to analyze to performance of the F1 drivers, their performances, constructor performances, and so on using SQL. I have uncovered various insights like the youngest and oldest F1 drivers, the most successful F1 drivers, and F1 teams. I even tried building custom reports containing all the details like year, race id, circuit location, driver name and positions, constructor name and positions, fastest lap timings, and so on.
 
 
 ![SQL report preview](https://github.com/user-attachments/assets/5b3cf9a2-fa62-4494-9620-4163b2cd22b0)
@@ -18,35 +18,9 @@ In this project, I've dived deeper into the Formula One Seasons to analyze to pe
 
 ### Data Source
 
-You can download the below dataset used in this project:
+I've taken this dataset from Kaggle. If you want to follow along, I'm sharing the link to the dataset below:
 
-[qualifying.csv](https://github.com/user-attachments/files/17441234/qualifying.csv)
-
-[pit_stops.csv](https://github.com/user-attachments/files/17441233/pit_stops.csv)
-
-[constructors.csv](https://github.com/user-attachments/files/17441229/constructors.csv)
-
-[lap_times.csv](https://github.com/user-attachments/files/17441232/lap_times.csv)
-
-[drivers.csv](https://github.com/user-attachments/files/17441231/drivers.csv)
-
-[driver_standings.csv](https://github.com/user-attachments/files/17441230/driver_standings.csv)
-
-[races.csv](https://github.com/user-attachments/files/17441221/races.csv)
-
-[results.csv](https://github.com/user-attachments/files/17441222/results.csv)
-
-[constructor_standings.csv](https://github.com/user-attachments/files/17441228/constructor_standings.csv)
-
-[constructor_results.csv](https://github.com/user-attachments/files/17441227/constructor_results.csv)
-
-[circuits.csv](https://github.com/user-attachments/files/17441226/circuits.csv)
-
-[status.csv](https://github.com/user-attachments/files/17441225/status.csv)
-
-[sprint_results.csv](https://github.com/user-attachments/files/17441224/sprint_results.csv)
-
-[seasons.csv](https://github.com/user-attachments/files/17441223/seasons.csv)
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?resource=download
 
 
 ### Major steps followed
